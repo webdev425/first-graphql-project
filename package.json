@@ -1,0 +1,13 @@
+{
+  "name": "first-graphql-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "webdev425 <thanh.dev425@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "lodash": "^4.17.21"
+  }
+}
